@@ -1,6 +1,6 @@
-/*console.log("Przykładowy jakiś komunikat wyświetlany w konsoli");*/
+console.log("Przykładowy jakiś komunikat wyświetlany w konsoli");
 
-/*var animal = ' ';
+var animal = ' ';
 switch (animal) {
 case "cat":
     console.log("maow");
@@ -10,10 +10,9 @@ case "cat":
         break;
         default:
             console.log('test');
-}*/
+}
 
-//value types
-/*var string = "tekst";
+var string = "tekst";
 var number = 2;
 var decimal = 2.5;
 var boolean = true; false;
@@ -42,12 +41,12 @@ var fun = 10;
 let ber = 20;
 
 var fin = 30;
-ber = 40;*/
+ber = 40;
 
 const global = "global const variable";
 let global2 = "global let variable";
 
-/*function test() {
+function test() {
     console.log(global); // można wyświetlić zmienną global, ponieważ jest o zasięgu globalnym
     console.log(global2);
     console.log(global3);
@@ -71,7 +70,7 @@ function functionScope() {
 functionScope();
 
 console.log(funVariable); // tutaj otrzymamy błąd: Uncaught ReferenceError: funVariable is not defined
-*/
+
 /*function functionScope() {
     var funVariable = "function variable";
     console.log(funVariable);

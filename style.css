@@ -2,6 +2,14 @@
     color: crimson;
 }
 
+h1 {
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+h2 {
+    color: blueviolet;
+}
+
 div1 {
     color: red;
     background-color: darkgreen;

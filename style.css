@@ -26,6 +26,7 @@ div1 {
 
 li > a {
     color: red;
+    font-size: large;
   }
 
   table {
